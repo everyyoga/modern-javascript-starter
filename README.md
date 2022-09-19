@@ -10,6 +10,8 @@ npm run dev # starts app
 # open modern-js-starter/main.js in your editor
 ```
 
+![image](demo.gif)
+
 
 ### Few CodeLab Articles: 
 (Coming soon)
