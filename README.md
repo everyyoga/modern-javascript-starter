@@ -7,7 +7,7 @@ git clone https://github.com/everyyoga/modern-js-starter
 cd modern-js-starter
 npm install # install dependencies
 npm run dev # starts app
-# open thisrepo/main.js in your editor
+# open modern-js-starter/main.js in your editor
 ```
 
 
